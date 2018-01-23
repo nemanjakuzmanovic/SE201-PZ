@@ -1,7 +1,3 @@
-# DZ12
-# Uputstvo
-Baza podataka za DZ12 - it255.sql
-Fajlove iz foldera php smestiti u htdocs u folder it255 da bi kod radio, iz razloga sto je predefinisana putanja u kodu localhost/it255
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.3.
 
