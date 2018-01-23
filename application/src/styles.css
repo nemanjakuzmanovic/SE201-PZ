@@ -1,0 +1,261 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background: #313131;
+    color: #fff;
+    font-family: "Arial";
+    font-size: 14px;
+}
+img {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+#main-container {
+    padding: 20px;
+}
+
+hr {
+  -moz-border-bottom-colors: none;
+  -moz-border-image: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: #EEEEEE -moz-use-text-color #FFFFFF;
+  border-style: solid none;
+  border-width: 1px 0;
+  margin: 5px 0;
+}
+.dot{
+
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #EEEEEE -moz-use-text-color #FFFFFF;
+    border-style: solid none;
+    border-width: 1px 0;
+    margin: 5px 0;
+    color: red;
+
+}
+
+.center{
+	padding-left: 25%;
+}
+
+.movie-container {
+    min-height: 200px;
+    background: #2c3446;
+    margin-top: 20px;
+	border: 1px solid #ccc;
+}
+
+.left-column {
+    width: 88px;
+    float: left;
+}
+
+.right-column {
+    margin-left: 88px;
+    padding: 20px;
+}
+
+.header {
+    background: #100f0f;
+    padding: 15px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+
+h1 {
+    color: #a60433;
+    font-size: 18px;
+    font-weight: bold;
+    display: inline;
+}
+
+.red {
+    color: #7F0000;
+    font-size: 16px;
+    font-weight: bold;
+    display: inline;
+}
+
+.year {
+    color: #fff;
+    font-size: 18px;
+}
+.content {
+    background: #313131;
+}
+.content.description {
+    color: #bfbfbf;
+    height: 85px;
+    margin-top: 15px;
+}
+.content.text {
+    color: #ef8585;
+}
+.content.first {
+    color: #4e99e8;
+}
+.content.yellow {
+    color: #f3ee78;
+	font-weight: bold;
+}
+.content.green {
+    color: #a2fd8d;
+}
+
+#ratings {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 38px;
+    color: #000;
+    width: 101px;
+}
+.imdb {
+    background: #c58c00;
+}
+.metascore {
+    background: #22b708;
+}
+.bottom {
+    margin-top: 15px;
+}
+.input-group  {
+    font-size: 0px;
+}
+
+.panel-insert {
+	border-color: #ccc;
+	-webkit-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+	box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+}
+
+.panel-insert>.panel-heading {
+	color: #00415d;
+	text-align:center;
+}
+
+.panel-insert>.panel-heading a{
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 15px;
+	-webkit-transition: all 0.1s linear;
+	-moz-transition: all 0.1s linear;
+	transition: all 0.1s linear;
+}
+
+.panel-insert>.panel-heading a.active{
+	color: #a60433;
+	font-size: 18px;
+}
+
+.panel-insert>.panel-heading hr{
+	margin-top: 10px;
+	margin-bottom: 0px;
+	border: 0;
+	height: 1px;
+	background-image: -webkit-linear-gradient(left,rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.15),rgba(0, 0, 0, 0));
+	background-image: -moz-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.15),rgba(0,0,0,0));
+	background-image: -ms-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.15),rgba(0,0,0,0));
+	background-image: -o-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.15),rgba(0,0,0,0));
+}
+
+.panel-insert input[type="text"] {
+	height: 45px;
+	border: 1px solid #ddd;
+	font-size: 16px;
+}
+
+.btn-insert {
+	background-color: #3a3939;
+	outline: none;
+	color: #fff;
+	font-size: 14px;
+	height: auto;
+	padding: 14px 0;
+	text-transform: uppercase;
+}
+
+.btn-insert:hover, .btn-insert:focus {
+	color: #fff;
+	background-color: #a60433;
+	border-color: #3a3939;
+}
+
+.con{
+	width:200px;
+	height:200px;
+	background:
+	linear-gradient(45deg, #ECEDDC 25%, transparent 25%) 0 -50px,
+	linear-gradient(135deg, #ECEDDC 25%, transparent 25%) 0  -50px,
+	linear-gradient(225deg, #ECEDDC 25%, transparent 25%),
+	linear-gradient(315deg, #ECEDDC 25%, transparent 25%);
+	background-size: 20px 20px;
+	background-color: #EC173A;
+}
+
+.navbar {
+    background-color: #2d2d30;
+    border: 0;
+    font-size: 12px !important;
+    letter-spacing: 3px;
+    opacity:0.9;
+}
+
+/* Add a gray color to all navbar links */
+.navbar li a, .navbar .navbar-brand {
+    color: #100f0f !important;
+}
+
+/* On hover, the links will turn white */
+.navbar-nav li a:hover {
+    color: #483D8B !important;
+}
+
+/* The active link */
+.navbar-nav li.active a {
+    color: #191970 !important;
+    background-color:#29292c !important;
+}
+
+/* Remove border color from the collapsible button */
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+
+/* Dropdown */
+.open .dropdown-toggle {
+    color: #fff ;
+    background-color: #555 !important;
+}
+
+/* Dropdown links */
+.dropdown-menu li a {
+    color: #000 !important;
+}
+
+/* On hover, the dropdown links will turn red */
+.dropdown-menu li a:hover {
+    background-color: red !important;
+}
+.container {
+    padding: 80px 120px;
+}
+.contact-form{ margin-top:15px;}
+.contact-form .textarea{ min-height:220px; resize:none;}
+.form-control{ box-shadow:none; border-color:#eee; height:49px;}
+.form-control:focus{ box-shadow:none; border-color:#00b09c;}
+.form-control-feedback{ line-height:50px;}
+.main-btn{ background:#00b09c; border-color:#00b09c; color:#fff;}
+.main-btn:hover{ background:#00a491;color:#fff;}
+.form-control-feedback {
+line-height: 50px;
+top: 0px;
+}

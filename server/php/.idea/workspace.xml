@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1adf7a89-7596-4e7b-9f5b-7618ee79a149" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="getmymovies.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getmymovies.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getguestmovies.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getguestmovies.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3261">
+              <caret line="527" column="39" lean-forward="false" selection-start-line="527" selection-start-column="39" selection-end-line="527" selection-end-column="39" />
+              <folding>
+                <marker date="1504116290488" expanded="true" signature="251:284" ph="SELECT * FRO... users" />
+                <marker date="1504116290488" expanded="true" signature="781:805" ph="UPDATE users... " />
+                <marker date="1504116290488" expanded="true" signature="781:822" ph="UPDATE users... " />
+                <marker date="1504116290488" expanded="true" signature="1222:1273" ph="SELECT * FRO... users" />
+                <marker date="1504116290488" expanded="true" signature="2229:2302" ph="INSERT INTO users... " />
+                <marker date="1504116290488" expanded="true" signature="2513:2554" ph="UPDATE users... " />
+                <marker date="1504116290488" expanded="true" signature="3050:3086" ph="SELECT * FRO... users" />
+                <marker date="1504116290488" expanded="true" signature="3505:3587" ph="INSERT INTO sobe... " />
+                <marker date="1504116290488" expanded="true" signature="4091:4222" ph="SELECT sobe.... sobe" />
+                <marker date="1504116290488" expanded="true" signature="4091:4226" ph="SELECT sobe.... sobe" />
+                <marker date="1504116290488" expanded="true" signature="4091:4250" ph="SELECT sobe.... rooms" />
+                <marker date="1504116290488" expanded="true" signature="4149:4202" ph="SELECT name room_type" />
+                <marker date="1504116290488" expanded="true" signature="4368:4503" ph="SELECT sobe.... sobe" />
+                <marker date="1504116290488" expanded="true" signature="4426:4479" ph="SELECT naziv... tip_sobe" />
+                <marker date="1504116290488" expanded="true" signature="5297:5329" ph="SELECT * FRO... sobe" />
+                <marker date="1504116290488" expanded="true" signature="5479:5497" ph="SELECT * FRO... sobe" />
+                <marker date="1504116290488" expanded="true" signature="6243:6274" ph="DELETE FROM " />
+                <marker date="1504116290488" expanded="true" signature="6672:6704" ph="SELECT * FRO... sobe" />
+                <marker date="1504116290488" expanded="true" signature="7099:7187" ph="UPDATE sobe " />
+                <marker date="1504116290488" expanded="true" signature="7105:7187" ph="INSERT INTO sobe... " />
+                <marker date="1504116290488" expanded="true" signature="8081:8113" ph="DELETE FROM " />
+                <marker date="1504116290488" expanded="true" signature="8508:8547" ph="INSERT INTO tip_sobe... " />
+                <marker date="1504116290488" expanded="true" signature="8994:9017" ph="SELECT * FRO... tip_sobe" />
+                <marker date="1504116290488" expanded="true" signature="9152:9175" ph="SELECT * FRO... tip_sobe" />
+                <marker date="1504116290488" expanded="true" signature="9720:9740" ph="SELECT * FRO... movies" />
+                <marker date="1504116290488" expanded="true" signature="9863:9883" ph="SELECT * FRO... movies" />
+                <marker date="1504116290488" expanded="true" signature="10627:10751" ph="SELECT GROUP... movies_genres" />
+                <marker date="1504116290488" expanded="true" signature="10734:10751" ph="SELECT genre... movies_genres" />
+                <marker date="1504116290488" expanded="true" signature="10927:11069" ph="SELECT direc... movies_directors" />
+                <marker date="1504116290488" expanded="true" signature="11252:11370" ph="SELECT stars... movies_stars" />
+                <marker date="1504116290488" expanded="true" signature="11730:11750" ph="SELECT * FRO... movies" />
+                <marker date="1504116290488" expanded="true" signature="11873:11918" ph="SELECT * FRO... movies" />
+                <marker date="1504116290488" expanded="true" signature="12911:12987" ph="SELECT movie... purchase" />
+                <marker date="1504116290488" expanded="true" signature="13337:13443" ph="INSERT INTO purchase... " />
+                <marker date="1504116290488" expanded="true" signature="13789:13893" ph="INSERT INTO purchase... " />
+                <marker date="1504116290488" expanded="true" signature="14462:14492" ph="SELECT * FRO... sobe" />
+                <marker date="1504116290488" expanded="true" signature="15685:15726" ph="SELECT * FRO... users" />
+                <marker date="1504116290488" expanded="true" signature="15685:15733" ph="SELECT * FRO... users" />
+                <marker date="1504116290488" expanded="true" signature="15685:15744" ph="SELECT * FRO... users" />
+                <marker date="1504116290488" expanded="true" signature="15685:15748" ph="SELECT * FRO... users" />
+                <marker date="1504116290488" expanded="true" signature="15685:15749" ph="SELECT * FRO... users" />
+                <marker date="1504116290488" expanded="true" signature="15685:15750" ph="SELECT * FRO... users" />
+                <marker date="1504116290488" expanded="true" signature="16266:16292" ph="SELECT * FRO... users" />
+                <marker date="1504116290488" expanded="true" signature="16266:16305" ph="SELECT * FRO... users" />
+                <marker date="1504116290488" expanded="true" signature="16266:16315" ph="SELECT * FRO... users" />
+                <marker date="1504116290488" expanded="true" signature="16983:17005" ph="SELECT * FRO... purchase" />
+                <marker date="1504116290488" expanded="true" signature="17128:17150" ph="SELECT * FRO... purchase" />
+                <marker date="1504116290488" expanded="true" signature="17274:17443" ph="SELECT movie... movies" />
+                <marker date="1504116290488" expanded="true" signature="18047:18069" ph="SELECT * FRO... purchase" />
+                <marker date="1504116290488" expanded="true" signature="18192:18214" ph="SELECT * FRO... purchase" />
+                <marker date="1504116290488" expanded="true" signature="18338:18512" ph="SELECT movie... movies" />
+                <marker date="1504116290488" expanded="true" signature="18338:18520" ph="SELECT movie... movies" />
+                <marker date="1504116290488" expanded="true" signature="19033:19070" ph="DELETE FROM " />
+                <marker date="1504116290488" expanded="true" signature="19475:19527" ph="UPDATE movie... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insert_imdb_data.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/insert_imdb_data.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <marker date="1504116897844" expanded="true" signature="1754:1867" ph="INSERT INTO movies_directors... " />
+                <marker date="1504116897844" expanded="true" signature="1991:2038" ph="SELECT id FR... directors" />
+                <marker date="1504116897844" expanded="true" signature="2212:2325" ph="INSERT INTO movies_directors... " />
+                <marker date="1504116897844" expanded="true" signature="2828:2929" ph="INSERT INTO movies_stars... " />
+                <marker date="1504116897844" expanded="true" signature="3011:3050" ph="SELECT id FR... stars" />
+                <marker date="1504116897844" expanded="true" signature="3220:3321" ph="INSERT INTO movies_stars... " />
+                <marker date="1504116897844" expanded="true" signature="3832:3936" ph="INSERT INTO movies_genres... " />
+                <marker date="1504116897844" expanded="true" signature="4018:4059" ph="SELECT id FR... genres" />
+                <marker date="1504116897844" expanded="true" signature="4230:4334" ph="INSERT INTO movies_genres... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scrape_imdb.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrape_imdb.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2550">
+              <caret line="150" column="40" lean-forward="false" selection-start-line="150" selection-start-column="40" selection-end-line="150" selection-end-column="40" />
+              <folding>
+                <marker date="1503517446109" expanded="true" signature="5118:5457" ph="..." />
+                <marker date="1503517446109" expanded="true" signature="5148:5457" ph="..." />
+                <marker date="1503517446109" expanded="true" signature="5203:5457" ph="..." />
+                <marker date="1503517446109" expanded="true" signature="5240:5457" ph="..." />
+                <marker date="1503517446109" expanded="true" signature="5279:5457" ph="..." />
+                <marker date="1503517446109" expanded="true" signature="5333:5457" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="empty.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/empty.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addMovieToMyMovies.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addMovieToMyMovies.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="82" lean-forward="true" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getrentedmovies.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getrentedmovies.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getaccount.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getaccount.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getcertificate.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getcertificate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getroomTypes</find>
+      <find>getRoom</find>
+      <find>conn</find>
+      <find>data</find>
+      <find>certifi</find>
+      <find>POST</find>
+      <find>updateroom</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/addhotelservice.php" />
+        <option value="$PROJECT_DIR$/gethotels.php" />
+        <option value="$PROJECT_DIR$/logoutservice.php" />
+        <option value="$PROJECT_DIR$/loginservice.php" />
+        <option value="$PROJECT_DIR$/registerservice.php" />
+        <option value="$PROJECT_DIR$/addroomservice.php" />
+        <option value="$PROJECT_DIR$/getroom.php" />
+        <option value="$PROJECT_DIR$/addroomtypeservice.php" />
+        <option value="$PROJECT_DIR$/getroomtypes.php" />
+        <option value="$PROJECT_DIR$/deleteroom.php" />
+        <option value="$PROJECT_DIR$/deleteroomtype.php" />
+        <option value="$PROJECT_DIR$/editroom.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/getmovies.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/getguestmovies.php" />
+        <option value="$PROJECT_DIR$/getdirectors.php" />
+        <option value="$PROJECT_DIR$/getcertificate.php" />
+        <option value="$PROJECT_DIR$/scrape_imdb.php" />
+        <option value="$PROJECT_DIR$/getOneMovie.php" />
+        <option value="$PROJECT_DIR$/getId.php" />
+        <option value="$PROJECT_DIR$/addMovieToMyMovies.php" />
+        <option value="$PROJECT_DIR$/deletemovie.php" />
+        <option value="$PROJECT_DIR$/editaccount.php" />
+        <option value="$PROJECT_DIR$/addHotel.php" />
+        <option value="$PROJECT_DIR$/getrooms.php" />
+        <option value="$PROJECT_DIR$/editmovie.php" />
+        <option value="$PROJECT_DIR$/getrentedmovies.php" />
+        <option value="$PROJECT_DIR$/getmymovies.php" />
+        <option value="$PROJECT_DIR$/getaccount.php" />
+        <option value="$PROJECT_DIR$/functions.php" />
+        <option value="$PROJECT_DIR$/insert_imdb_data.php" />
+        <option value="$PROJECT_DIR$/empty.php" />
+        <option value="$PROJECT_DIR$/movies.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="it255" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="it255" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1adf7a89-7596-4e7b-9f5b-7618ee79a149" name="Default" comment="" />
+      <created>1496185044849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496185044849</updated>
+      <workItem from="1496185045955" duration="5968000" />
+      <workItem from="1496270880237" duration="7307000" />
+      <workItem from="1496310062868" duration="2098000" />
+      <workItem from="1496795147918" duration="290000" />
+      <workItem from="1496795469211" duration="1684000" />
+      <workItem from="1496851542148" duration="6545000" />
+      <workItem from="1496901905998" duration="105000" />
+      <workItem from="1496902025129" duration="3154000" />
+      <workItem from="1496907459349" duration="16000" />
+      <workItem from="1496907476663" duration="2913000" />
+      <workItem from="1503343148684" duration="8210000" />
+      <workItem from="1503418632425" duration="8566000" />
+      <workItem from="1503510850566" duration="8714000" />
+      <workItem from="1503617147901" duration="6060000" />
+      <workItem from="1503676970221" duration="17834000" />
+      <workItem from="1503784067765" duration="44000" />
+      <workItem from="1503849272641" duration="599000" />
+      <workItem from="1503961081893" duration="8754000" />
+      <workItem from="1504027119056" duration="32160000" />
+      <workItem from="1504082278028" duration="7720000" />
+      <workItem from="1504100836934" duration="14842000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="143583000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11145833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/addhotelservice.php" />
+    <entry file="file://$PROJECT_DIR$/registerservice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1504116290488" expanded="true" signature="251:284" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="781:805" ph="UPDATE users... " />
+            <marker date="1504116290488" expanded="true" signature="781:822" ph="UPDATE users... " />
+            <marker date="1504116290488" expanded="true" signature="1222:1273" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="2229:2302" ph="INSERT INTO users... " />
+            <marker date="1504116290488" expanded="true" signature="2513:2554" ph="UPDATE users... " />
+            <marker date="1504116290488" expanded="true" signature="3050:3086" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="3505:3587" ph="INSERT INTO sobe... " />
+            <marker date="1504116290488" expanded="true" signature="4091:4222" ph="SELECT sobe.... sobe" />
+            <marker date="1504116290488" expanded="true" signature="4091:4226" ph="SELECT sobe.... sobe" />
+            <marker date="1504116290488" expanded="true" signature="4091:4250" ph="SELECT sobe.... rooms" />
+            <marker date="1504116290488" expanded="true" signature="4149:4202" ph="SELECT name room_type" />
+            <marker date="1504116290488" expanded="true" signature="4368:4503" ph="SELECT sobe.... sobe" />
+            <marker date="1504116290488" expanded="true" signature="4426:4479" ph="SELECT naziv... tip_sobe" />
+            <marker date="1504116290488" expanded="true" signature="5297:5329" ph="SELECT * FRO... sobe" />
+            <marker date="1504116290488" expanded="true" signature="5479:5497" ph="SELECT * FRO... sobe" />
+            <marker date="1504116290488" expanded="true" signature="6243:6274" ph="DELETE FROM " />
+            <marker date="1504116290488" expanded="true" signature="6672:6704" ph="SELECT * FRO... sobe" />
+            <marker date="1504116290488" expanded="true" signature="7099:7187" ph="UPDATE sobe " />
+            <marker date="1504116290488" expanded="true" signature="7105:7187" ph="INSERT INTO sobe... " />
+            <marker date="1504116290488" expanded="true" signature="8081:8113" ph="DELETE FROM " />
+            <marker date="1504116290488" expanded="true" signature="8508:8547" ph="INSERT INTO tip_sobe... " />
+            <marker date="1504116290488" expanded="true" signature="8994:9017" ph="SELECT * FRO... tip_sobe" />
+            <marker date="1504116290488" expanded="true" signature="9152:9175" ph="SELECT * FRO... tip_sobe" />
+            <marker date="1504116290488" expanded="true" signature="9720:9740" ph="SELECT * FRO... movies" />
+            <marker date="1504116290488" expanded="true" signature="9863:9883" ph="SELECT * FRO... movies" />
+            <marker date="1504116290488" expanded="true" signature="10627:10751" ph="SELECT GROUP... movies_genres" />
+            <marker date="1504116290488" expanded="true" signature="10734:10751" ph="SELECT genre... movies_genres" />
+            <marker date="1504116290488" expanded="true" signature="10927:11069" ph="SELECT direc... movies_directors" />
+            <marker date="1504116290488" expanded="true" signature="11252:11370" ph="SELECT stars... movies_stars" />
+            <marker date="1504116290488" expanded="true" signature="11730:11750" ph="SELECT * FRO... movies" />
+            <marker date="1504116290488" expanded="true" signature="11873:11918" ph="SELECT * FRO... movies" />
+            <marker date="1504116290488" expanded="true" signature="12911:12987" ph="SELECT movie... purchase" />
+            <marker date="1504116290488" expanded="true" signature="13337:13443" ph="INSERT INTO purchase... " />
+            <marker date="1504116290488" expanded="true" signature="13789:13893" ph="INSERT INTO purchase... " />
+            <marker date="1504116290488" expanded="true" signature="14462:14492" ph="SELECT * FRO... sobe" />
+            <marker date="1504116290488" expanded="true" signature="15685:15726" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="15685:15733" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="15685:15744" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="15685:15748" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="15685:15749" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="15685:15750" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="16266:16292" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="16266:16305" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="16266:16315" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="16983:17005" ph="SELECT * FRO... purchase" />
+            <marker date="1504116290488" expanded="true" signature="17128:17150" ph="SELECT * FRO... purchase" />
+            <marker date="1504116290488" expanded="true" signature="17274:17443" ph="SELECT movie... movies" />
+            <marker date="1504116290488" expanded="true" signature="18047:18069" ph="SELECT * FRO... purchase" />
+            <marker date="1504116290488" expanded="true" signature="18192:18214" ph="SELECT * FRO... purchase" />
+            <marker date="1504116290488" expanded="true" signature="18338:18512" ph="SELECT movie... movies" />
+            <marker date="1504116290488" expanded="true" signature="18338:18520" ph="SELECT movie... movies" />
+            <marker date="1504116290488" expanded="true" signature="19033:19070" ph="DELETE FROM " />
+            <marker date="1504116290488" expanded="true" signature="19475:19527" ph="UPDATE movie... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registerservice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="65" lean-forward="false" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gethotels.php" />
+    <entry file="file://$PROJECT_DIR$/loginservice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getrooms.php" />
+    <entry file="file://$PROJECT_DIR$/addroomservice.php" />
+    <entry file="file://$PROJECT_DIR$/addhotelservice.php" />
+    <entry file="file://$PROJECT_DIR$/logoutservice.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13288.27772/movies.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13288.26706/movies.php" />
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/getroomtypes.php" />
+    <entry file="file://$USER_HOME$/Desktop/CS324-Projekat/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/CS324-Projekat/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guestmovies.php" />
+    <entry file="file://$PROJECT_DIR$/addhotelservice.php" />
+    <entry file="file://$PROJECT_DIR$/gethotels.php" />
+    <entry file="file://$PROJECT_DIR$/deleteroom.php" />
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addroomtypeservice.php" />
+    <entry file="file://$PROJECT_DIR$/addroomservice.php" />
+    <entry file="file://$PROJECT_DIR$/addRoom.php" />
+    <entry file="file://$PROJECT_DIR$/deletemovie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleteroomtype.php" />
+    <entry file="file://$PROJECT_DIR$/editroom.php" />
+    <entry file="file://$PROJECT_DIR$/addHotel.php" />
+    <entry file="file://$PROJECT_DIR$/getroom.php" />
+    <entry file="file://$PROJECT_DIR$/getrooms.php" />
+    <entry file="file://$PROJECT_DIR$/loginservice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registerservice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="52" lean-forward="false" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editmovie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getdirectors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getId.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getmovies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getOneMovie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editaccount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="88" lean-forward="false" selection-start-line="20" selection-start-column="88" selection-end-line="20" selection-end-column="88" />
+          <folding>
+            <marker date="1504089614955" expanded="true" signature="559:588" ph="SELECT * FRO... sobe" />
+            <marker date="1504089614955" expanded="true" signature="798:851" ph="UPDATE users... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getcertificate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getguestmovies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addMovieToMyMovies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="82" lean-forward="true" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getrentedmovies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getmymovies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getaccount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/empty.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3261">
+          <caret line="527" column="39" lean-forward="false" selection-start-line="527" selection-start-column="39" selection-end-line="527" selection-end-column="39" />
+          <folding>
+            <marker date="1504116290488" expanded="true" signature="251:284" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="781:805" ph="UPDATE users... " />
+            <marker date="1504116290488" expanded="true" signature="781:822" ph="UPDATE users... " />
+            <marker date="1504116290488" expanded="true" signature="1222:1273" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="2229:2302" ph="INSERT INTO users... " />
+            <marker date="1504116290488" expanded="true" signature="2513:2554" ph="UPDATE users... " />
+            <marker date="1504116290488" expanded="true" signature="3050:3086" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="3505:3587" ph="INSERT INTO sobe... " />
+            <marker date="1504116290488" expanded="true" signature="4091:4222" ph="SELECT sobe.... sobe" />
+            <marker date="1504116290488" expanded="true" signature="4091:4226" ph="SELECT sobe.... sobe" />
+            <marker date="1504116290488" expanded="true" signature="4091:4250" ph="SELECT sobe.... rooms" />
+            <marker date="1504116290488" expanded="true" signature="4149:4202" ph="SELECT name room_type" />
+            <marker date="1504116290488" expanded="true" signature="4368:4503" ph="SELECT sobe.... sobe" />
+            <marker date="1504116290488" expanded="true" signature="4426:4479" ph="SELECT naziv... tip_sobe" />
+            <marker date="1504116290488" expanded="true" signature="5297:5329" ph="SELECT * FRO... sobe" />
+            <marker date="1504116290488" expanded="true" signature="5479:5497" ph="SELECT * FRO... sobe" />
+            <marker date="1504116290488" expanded="true" signature="6243:6274" ph="DELETE FROM " />
+            <marker date="1504116290488" expanded="true" signature="6672:6704" ph="SELECT * FRO... sobe" />
+            <marker date="1504116290488" expanded="true" signature="7099:7187" ph="UPDATE sobe " />
+            <marker date="1504116290488" expanded="true" signature="7105:7187" ph="INSERT INTO sobe... " />
+            <marker date="1504116290488" expanded="true" signature="8081:8113" ph="DELETE FROM " />
+            <marker date="1504116290488" expanded="true" signature="8508:8547" ph="INSERT INTO tip_sobe... " />
+            <marker date="1504116290488" expanded="true" signature="8994:9017" ph="SELECT * FRO... tip_sobe" />
+            <marker date="1504116290488" expanded="true" signature="9152:9175" ph="SELECT * FRO... tip_sobe" />
+            <marker date="1504116290488" expanded="true" signature="9720:9740" ph="SELECT * FRO... movies" />
+            <marker date="1504116290488" expanded="true" signature="9863:9883" ph="SELECT * FRO... movies" />
+            <marker date="1504116290488" expanded="true" signature="10627:10751" ph="SELECT GROUP... movies_genres" />
+            <marker date="1504116290488" expanded="true" signature="10734:10751" ph="SELECT genre... movies_genres" />
+            <marker date="1504116290488" expanded="true" signature="10927:11069" ph="SELECT direc... movies_directors" />
+            <marker date="1504116290488" expanded="true" signature="11252:11370" ph="SELECT stars... movies_stars" />
+            <marker date="1504116290488" expanded="true" signature="11730:11750" ph="SELECT * FRO... movies" />
+            <marker date="1504116290488" expanded="true" signature="11873:11918" ph="SELECT * FRO... movies" />
+            <marker date="1504116290488" expanded="true" signature="12911:12987" ph="SELECT movie... purchase" />
+            <marker date="1504116290488" expanded="true" signature="13337:13443" ph="INSERT INTO purchase... " />
+            <marker date="1504116290488" expanded="true" signature="13789:13893" ph="INSERT INTO purchase... " />
+            <marker date="1504116290488" expanded="true" signature="14462:14492" ph="SELECT * FRO... sobe" />
+            <marker date="1504116290488" expanded="true" signature="15685:15726" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="15685:15733" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="15685:15744" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="15685:15748" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="15685:15749" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="15685:15750" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="16266:16292" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="16266:16305" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="16266:16315" ph="SELECT * FRO... users" />
+            <marker date="1504116290488" expanded="true" signature="16983:17005" ph="SELECT * FRO... purchase" />
+            <marker date="1504116290488" expanded="true" signature="17128:17150" ph="SELECT * FRO... purchase" />
+            <marker date="1504116290488" expanded="true" signature="17274:17443" ph="SELECT movie... movies" />
+            <marker date="1504116290488" expanded="true" signature="18047:18069" ph="SELECT * FRO... purchase" />
+            <marker date="1504116290488" expanded="true" signature="18192:18214" ph="SELECT * FRO... purchase" />
+            <marker date="1504116290488" expanded="true" signature="18338:18512" ph="SELECT movie... movies" />
+            <marker date="1504116290488" expanded="true" signature="18338:18520" ph="SELECT movie... movies" />
+            <marker date="1504116290488" expanded="true" signature="19033:19070" ph="DELETE FROM " />
+            <marker date="1504116290488" expanded="true" signature="19475:19527" ph="UPDATE movie... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrape_imdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="150" column="40" lean-forward="false" selection-start-line="150" selection-start-column="40" selection-end-line="150" selection-end-column="40" />
+          <folding>
+            <marker date="1503517446109" expanded="true" signature="5118:5457" ph="..." />
+            <marker date="1503517446109" expanded="true" signature="5148:5457" ph="..." />
+            <marker date="1503517446109" expanded="true" signature="5203:5457" ph="..." />
+            <marker date="1503517446109" expanded="true" signature="5240:5457" ph="..." />
+            <marker date="1503517446109" expanded="true" signature="5279:5457" ph="..." />
+            <marker date="1503517446109" expanded="true" signature="5333:5457" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_imdb_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <marker date="1504116897844" expanded="true" signature="1754:1867" ph="INSERT INTO movies_directors... " />
+            <marker date="1504116897844" expanded="true" signature="1991:2038" ph="SELECT id FR... directors" />
+            <marker date="1504116897844" expanded="true" signature="2212:2325" ph="INSERT INTO movies_directors... " />
+            <marker date="1504116897844" expanded="true" signature="2828:2929" ph="INSERT INTO movies_stars... " />
+            <marker date="1504116897844" expanded="true" signature="3011:3050" ph="SELECT id FR... stars" />
+            <marker date="1504116897844" expanded="true" signature="3220:3321" ph="INSERT INTO movies_stars... " />
+            <marker date="1504116897844" expanded="true" signature="3832:3936" ph="INSERT INTO movies_genres... " />
+            <marker date="1504116897844" expanded="true" signature="4018:4059" ph="SELECT id FR... genres" />
+            <marker date="1504116897844" expanded="true" signature="4230:4334" ph="INSERT INTO movies_genres... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

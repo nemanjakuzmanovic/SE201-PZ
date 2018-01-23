@@ -1,0 +1,8 @@
+<form role="form" [formGroup]="editMovieForm">
+  Edit description to your needs! You can now keep tack of watched movies, paused, etc.<br/>
+<div class="form-group">
+  <label for="description">Description:</label>
+  <input type="text" class="form-control" formControlName='description'>
+</div>
+<button (click)="onEditMovie()" class="btn btn-default">Edit Movie</button>
+</form>
